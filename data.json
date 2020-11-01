@@ -1,0 +1,51 @@
+{
+    "UnknownResponse":[
+    "Sorry, I did not get that. Can you ask another question?",
+    "Sorry, couldnt understand",
+    "Try to ask another question"
+    ],
+    "RequestError":[
+        "Sorry, Coulnt connect",
+        "Sorry, Server Error"
+    ],
+    "BotToUserGreetings":[
+        "Hey",
+        "Hello",
+        "Hi",
+        "Hey, How can I help you",
+        "How may I help",
+        "With what can I serve you with"
+    ],
+    "AskName":[
+        "what is your name",
+        "what's your name",
+        "tell me your name"
+    ],
+    "ReplyAfterName":[
+        "Very beautiful name"
+    ],
+    "ReplyAskName":[
+        "My name is Nishtha"
+    ],
+    "UserToBotGreetings":[
+        "how are you",
+        "how are you doing"  
+    ],
+    "ReplyUserToBotGreetings":[
+        "I'm very well, thanks for asking"
+    ],
+    "AskTime":[
+        "what's the time",
+        "tell me the time",
+        "what time is it"
+    ],
+    "GoogleSearchYouTube":[
+        "youtube",
+        "watch"
+    ],
+    "Exit":[
+        "exit",
+        "quit",
+        "goodbye"
+    ]
+}
